@@ -1,1 +1,1 @@
-# xxl-job-nacos
+基于xxl-job 2.2.0版本，增加nacos支持。
